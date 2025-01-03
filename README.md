@@ -24,8 +24,8 @@ canceled or reset
 - MongoDB
 
 ## Screenshot
-<img src="![Screenshot (4)](https://github.com/user-attachments/assets/f876817c-d542-4609-83d1-3648d95e4982)
-" />
+![Screenshot (4)](https://github.com/user-attachments/assets/63e96899-cc5d-4b99-ade1-d115e2a7ac90)
+
 
 ## Backend Installation
 - clone repo
