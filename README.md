@@ -1,9 +1,4 @@
-## Project files submitted using my brother's account due to some issues in my Github accout
-
 # Seat Booking
-
-## Video Walkthrough of the project
-https://www.loom.com/share/713df6aff3524d91a610402655633500?sid=3055b4a7-5076-46d5-9ac4-2c58bced971f
 
 ## Problem Description:
 - There are 80 seats in a train with only 7 seats in a row and the last row of only 3
